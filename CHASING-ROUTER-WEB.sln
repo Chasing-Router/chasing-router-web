@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHASING-ROUTER-WEB.Api", "CHASING-ROUTER-WEB.Api\CHASING-ROUTER-WEB.Api.csproj", "{98F45E1A-7277-4E18-A791-CD0962712932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHASING-ROUTER-WEB.Domain", "CHASING-ROUTER-WEB.Domain\CHASING-ROUTER-WEB.Domain.csproj", "{A79916F0-87A1-485F-8009-DD57E919DBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F45E1A-7277-4E18-A791-CD0962712932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F45E1A-7277-4E18-A791-CD0962712932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F45E1A-7277-4E18-A791-CD0962712932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F45E1A-7277-4E18-A791-CD0962712932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79916F0-87A1-485F-8009-DD57E919DBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79916F0-87A1-485F-8009-DD57E919DBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79916F0-87A1-485F-8009-DD57E919DBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79916F0-87A1-485F-8009-DD57E919DBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
